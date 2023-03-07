@@ -1,0 +1,10 @@
+- Find the task by index
+Get the task from the tasks lists using it's index
+- Consider index out of bounds scenarios and include appropriate message(s) for invalid index
+Check that the index is not less than zero or grater that the length of the list else show out f bounds error
+- update incoming task data if it's provided (if it's not provided use the original task property value)
+Check if the values entered by the user are empty, if empty ignore update and maintain previous value
+- update lastActivity with the current datetime value
+Get current date and time
+- output that the task was updated if any items were changed, otherwise mention task was not updated
+Check if any of the task property has changed and give message accordingly

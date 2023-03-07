@@ -1,0 +1,5 @@
+A test case is an individual unit of testing which checks for a specific response given a particular set of inputs.
+A unit test checks that a single component operates in the right way. 
+Some of the advantages of unit testing are:
+It helps you to isolate what is broken in your application and fix it faster.
+It helps also ensure code stability as the code is contantly verified.

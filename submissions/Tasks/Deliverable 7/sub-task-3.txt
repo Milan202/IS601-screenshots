@@ -1,0 +1,7 @@
+- generate a list of tasks where the task is not done
+We use the python filter function to get task which are marked as not done
+The filter function can be applied to an iterable such as a list or a dictionary and create a new iterator.
+This new iterator can filter out certain specific elements based on the condition that you provide very efficiently.
+We use a lambda function to check if the task is not done.
+- pass that list into list_tasks()
+Pass the filtered out list to the list_tasks() function to display the list of tasks selected.

@@ -1,0 +1,7 @@
+- Find the task by index
+Get the task from the tasks lists using it's index
+- Consider index out of bounds scenarios and include appropriate message(s) for invalid index
+Check that the index is not less than zero or grater that the length of the list else show out f bounds error
+- get the days, hours, minutes,seconds between the due date and now
+Subtract current date from due date and get the total_seconds remaining
+Divide by the respective seconds to get day, hours, minutes

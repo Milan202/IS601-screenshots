@@ -1,0 +1,5 @@
+- Python classes and methods
+I learned the importance of using python classes and methods in making code 
+readable and reusable.
+- Loops
+I learned on while loops to continuously get user input until a user decides to stop the program. 

@@ -1,0 +1,6 @@
+- generate a list of tasks where the due date is older than now and that are not complete
+We use the python filter function to get task which are marked as not done
+The filter function can be applied to an iterable such as a list or a dictionary and create a new iterator.
+Get tasks whose due date has passed and the task is not done
+- pass that list into list_tasks()
+Pass the filtered out list to the list_tasks() function to display the list of tasks selected.

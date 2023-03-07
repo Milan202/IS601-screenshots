@@ -1,0 +1,6 @@
+- Filtering items in a list
+I learned how to use the filter function and pass the lamda function to check a list item
+meets a certain criteria.
+- Printing out colored messages on the terminal.
+I learned to print out messages using color codes.
+- I learned to reuse functions. 

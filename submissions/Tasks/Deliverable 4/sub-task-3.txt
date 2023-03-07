@@ -1,0 +1,8 @@
+- Find the task by index
+Get the task from the tasks lists using it's index
+- Consider index out of bounds scenarios and include appropriate message(s) for invalid index
+Check that the index is not less than zero or grater that the length of the list else show out f bounds error
+- if it's not done, record the current datetime as the value
+Check that the done property is false, and then update the lastActivity time
+- if it is done, print a message saying it's already completed
+If the task done property is true, print the already completed statement

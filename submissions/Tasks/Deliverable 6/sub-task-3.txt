@@ -1,0 +1,9 @@
+- delete/remove task from list by index
+To delete a task from the list we use the python del keyword. The Python del keyword is used to delete objects.
+The del statement can be used to delete an item at a given index.
+- message should show if it was successful or not
+We use try/except to catch any errors that may occur during deletion
+If an error occurs then the process was not successful else a successful message is shown
+- Consider index out of bounds scenarios and include appropriate message(s) for invalid index
+Check that the index is not less than zero or grater that the length of the list else show out f bounds error
+

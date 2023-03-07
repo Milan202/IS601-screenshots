@@ -1,0 +1,6 @@
+- get the task by index
+Get indes from user input
+- consider index out of bounds scenarios and include appropriate message(s) for invalid index
+Check that the index is not less than zero or grater that the length of the list else show out f bounds error
+- show the existing value of each property where the TODOs are marked
+Get the selected task using the index of the tasks lists

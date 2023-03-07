@@ -1,0 +1,18 @@
+- update lastActivity with the current datetime value
+Get the current date and time using the python datetime module
+
+- set the name, description, and due date
+Verify that the values have been provided for by the user
+If any of the values is empty show error message
+If all values are present assign the values accordingly
+
+- due date must match one of the formats mentioned in str_to_datetime()
+Pass the due date and time entered to the str_to_datetime function that uses the strip time function
+to extract the right format. If the right format cannot be extracted then an error is raised.
+
+-add the new task to the tasks list
+We use the append function to add the task to the tasks list.
+
+- output a message confirming the new task was added or if the addition was rejected due to missing data
+If no error message has been noted, a successful message is printed and task added to tasks list.
+If an error is encountered, it is added to the error messages list. The error messages are then printed in an organised format.
